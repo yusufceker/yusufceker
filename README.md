@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Çeker</h1>
 <h3 align="center">A Python Developer from Turkey.</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  - 💻 I’m currently working on **Python**
+-   💻 I’m currently working on Python
 
 - 🌱 I’m currently learning **Flask, Django**
 
@@ -17,7 +17,7 @@
 
 - 📄 You can send mail [yckr44@gmail.com](yckr44@gmail.com)
 
-- ⚡ Fun fact **Funny guy ✌️😁**
+- ⚡ **Funny guy ✌️😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
